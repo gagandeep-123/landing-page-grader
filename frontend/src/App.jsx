@@ -167,10 +167,10 @@ function App() {
               </h3>
 
               <p>
-                Scoring weights are adjusted for the detected audience.
+                Audience classification provides context and does not affect the score.
               </p>
 
-              <span className="audience-tag">Audience-adjusted rubric</span>
+              <span className="audience-tag">Audience context</span>
             </div>
           </div>
 
