@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "benchmark": "node scripts/benchmark.cjs"
+
+  },
+  "devDependencies": {
+    "wrangler": "^4.157.0",
+    "xlsx": "^0.18.5"
+  }
+}

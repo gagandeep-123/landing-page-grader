@@ -1,0 +1,40 @@
+
+{
+  "version": "v1",
+  "status": "initial",
+  "totalPoints": 100,
+  "categories": {
+    "conversionPath": 25,
+    "messageClarity": 20,
+    "trustAndProof": 15,
+    "performance": 15,
+    "contentHygiene": 10,
+    "friction": 15
+  },
+  "audiences": {
+    "enterprise": {
+      "prioritySignals": [
+        "demoCTA",
+        "securityProof",
+        "customerCaseStudies",
+        "enterpriseTrust"
+      ]
+    },
+    "selfServe": {
+      "prioritySignals": [
+        "freeTrialCTA",
+        "simpleSignup",
+        "pricingClarity",
+        "fastPerformance"
+      ]
+    },
+    "learner": {
+      "prioritySignals": [
+        "contentClarity",
+        "educationalResources",
+        "readability",
+        "contentNavigation"
+      ]
+    }
+  }
+}
